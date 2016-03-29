@@ -10,6 +10,7 @@ namespace Monitor.Admin.Controllers
     {
         public ActionResult Index()
         {
+            //test commit for github
             ViewBag.Message = "Monitoring Admin";
             var entites = new ScreensDBEntities();
             

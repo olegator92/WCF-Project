@@ -19,3 +19,24 @@ D:\Administrator\Documents\Visual Studio 2012\Projects\WCFScreenTakerApplication
 D:\Administrator\Documents\Visual Studio 2012\Projects\WCFScreenTakerApplication\Monitor.Admin\obj\Debug\Monitor.Admin.csprojResolveAssemblyReference.cache
 D:\Administrator\Documents\Visual Studio 2012\Projects\WCFScreenTakerApplication\Monitor.Admin\obj\Debug\Monitor.Admin.dll
 D:\Administrator\Documents\Visual Studio 2012\Projects\WCFScreenTakerApplication\Monitor.Admin\obj\Debug\Monitor.Admin.pdb
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\Monitor.Admin.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\Monitor.Admin.pdb
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\EntityFramework.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.Helpers.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.Mvc.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.Providers.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.Razor.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.WebPages.Deployment.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.WebPages.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.WebPages.Razor.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\EntityFramework.xml
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.Helpers.xml
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.Mvc.xml
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.Razor.xml
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.WebPages.xml
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.WebPages.Deployment.xml
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\bin\System.Web.WebPages.Razor.xml
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\obj\Debug\Monitor.Admin.csprojResolveAssemblyReference.cache
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\obj\Debug\Monitor.Admin.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\Monitor.Admin\obj\Debug\Monitor.Admin.pdb
