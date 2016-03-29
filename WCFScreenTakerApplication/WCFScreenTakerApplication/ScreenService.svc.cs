@@ -14,7 +14,7 @@ namespace WCFScreenTakerApplication
     // NOTE: In order to launch WCF Test Client for testing this service, please select ScreenService.svc or ScreenService.svc.cs at the Solution Explorer and start debugging.
     public class ScreenService : IScreenService
     {
-        public void TakeScreen(Byte[] screen, DateTime time, Int32 cursorX, Int32 cursorY)
+        public void TakeScreen(Byte[] screen, DateTime time, int cursorX, int cursorY)
         {
             string connectionString = @"Data Source=(local);Initial Catalog=ScreensDB;Integrated Security=True";
             using (var connection = new SqlConnection(connectionString))

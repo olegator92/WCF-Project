@@ -46,9 +46,6 @@ namespace MonitorApp
             //Send data
             var client = new ScreenServiceClient();
             client.TakeScreen(screen, time, cursorX, cursorY);
-
-            // Force a garbage collection
-            GC.Collect();
         }
     }
 }

@@ -3,3 +3,8 @@ d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication
 d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.dll
 d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.pdb
 D:\Administrator\Documents\Visual Studio 2012\Projects\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.csprojResolveAssemblyReference.cache
+D:\Git\WCFProject\WCFScreenTakerApplication\WCFScreenTakerApplication\bin\WCFScreenTakerApplication.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\WCFScreenTakerApplication\bin\WCFScreenTakerApplication.pdb
+D:\Git\WCFProject\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.csprojResolveAssemblyReference.cache
+D:\Git\WCFProject\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.dll
+D:\Git\WCFProject\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.pdb

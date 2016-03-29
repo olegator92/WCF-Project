@@ -13,6 +13,6 @@ namespace WCFScreenTakerApplication
     public interface IScreenService
     {
         [OperationContract]
-        void TakeScreen(Byte[] screen, DateTime time, Int32 mouseX, Int32 mouseY);
+        void TakeScreen(Byte[] screen, DateTime time, int mouseX, int mouseY);
     }
 }
