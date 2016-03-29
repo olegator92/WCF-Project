@@ -1,0 +1,6 @@
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\MonitorApp\bin\Debug\MonitorApp.exe.config
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\MonitorApp\bin\Debug\MonitorApp.exe
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\MonitorApp\bin\Debug\MonitorApp.pdb
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\MonitorApp\obj\Debug\MonitorApp.csprojResolveAssemblyReference.cache
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\MonitorApp\obj\Debug\MonitorApp.exe
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\MonitorApp\obj\Debug\MonitorApp.pdb

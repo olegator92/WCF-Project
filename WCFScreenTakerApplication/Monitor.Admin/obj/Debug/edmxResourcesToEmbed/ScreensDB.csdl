@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ScreensDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ScreensDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Screens" EntityType="ScreensDBModel.Screen" />
+  </EntityContainer>
+  <EntityType Name="Screen">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Screen1" Type="Binary" Nullable="false" MaxLength="Max" FixedLength="false" />
+    <Property Name="Time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CursorX" Type="Double" Nullable="false" />
+    <Property Name="CursorY" Type="Double" Nullable="false" />
+  </EntityType>
+</Schema>

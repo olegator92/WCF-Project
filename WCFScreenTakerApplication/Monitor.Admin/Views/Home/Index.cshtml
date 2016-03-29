@@ -1,0 +1,46 @@
+﻿@model System.Collections.Generic.List<Monitor.Admin.Screen>
+@{
+    ViewBag.Title = "Monitoring Page";
+}
+
+<style type="text/css">
+    tr,td {
+        vertical-align: top;
+    }
+</style>
+
+<h2>@ViewBag.Message</h2>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Time</th>
+        <th>Cursor(X:Y)</th>
+        <th>Screen</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.Time
+            </td>
+            <td>
+                (@item.CursorX:@item.CursorY)
+            </td>
+            <td>
+                @{
+                    string imageBase64 = Convert.ToBase64String(item.Screen1);
+                    string imageSrc = string.Format("data:image/jpeg;base64,{0}", imageBase64);
+                }
+                <a href="@imageSrc" target="_blank"><img src="@imageSrc" style="width: 20%;height: 20%;display: inline-block;"/></a>
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+

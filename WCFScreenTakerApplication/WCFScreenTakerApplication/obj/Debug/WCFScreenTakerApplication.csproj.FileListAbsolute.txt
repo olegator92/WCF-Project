@@ -1,0 +1,5 @@
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\WCFScreenTakerApplication\bin\WCFScreenTakerApplication.dll
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\WCFScreenTakerApplication\bin\WCFScreenTakerApplication.pdb
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.dll
+d:\administrator\documents\visual studio 2012\Projects\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.pdb
+D:\Administrator\Documents\Visual Studio 2012\Projects\WCFScreenTakerApplication\WCFScreenTakerApplication\obj\Debug\WCFScreenTakerApplication.csprojResolveAssemblyReference.cache
