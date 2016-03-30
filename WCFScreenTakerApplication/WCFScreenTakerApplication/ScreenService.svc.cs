@@ -27,8 +27,14 @@ namespace WCFScreenTakerApplication
                 command.Parameters.Add("@time", SqlDbType.DateTime).Value = time;
                 command.Parameters.Add("@cursorX", SqlDbType.Int).Value = cursorX;
                 command.Parameters.Add("@cursorY", SqlDbType.Int).Value = cursorY;
-
-                command.ExecuteNonQuery();
+                try
+                {
+                    command.ExecuteNonQuery();
+                }
+                catch (SqlException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
             }
         }
     }

@@ -45,7 +45,14 @@ namespace MonitorApp
 
             //Send data
             var client = new ScreenServiceClient();
-            client.TakeScreen(screen, time, cursorX, cursorY);
+            try
+            {
+                client.TakeScreen(screen, time, cursorX, cursorY);
+            }
+            catch (Exception ex)
+            {
+               Console.WriteLine(ex.Message); 
+            }
         }
     }
 }
